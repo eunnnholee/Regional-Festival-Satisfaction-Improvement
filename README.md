@@ -203,6 +203,7 @@ for i in range(19):
 
 ## **Ⅳ**. HOQ(House Of Quality)
 <img width="1074" alt="스크린샷 2024-07-05 오전 9 57 32" src="https://github.com/eunnnholee/Regional-Festival-Satisfaction-Improvement/assets/151797888/07bfb5df-6205-4e05-bd3a-f2d2fe61bffc">
+
 - 토픽모델링을 통해 추출한 토픽의 평균 확률값을 바탕으로 고객 중요도를 설정하였다.
 - What list의 만족도 설문조사 평균값들을 각 What list의 자사 품질로 설정하였다.
 - 기획품질은 What list 요구 품질의 중요도가 높을수록, What list의 자사 품질이 낮을수록 중점적으로 품질 개선을 진행해야 한다고 판단하였다.
