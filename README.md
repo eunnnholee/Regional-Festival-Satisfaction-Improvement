@@ -1,4 +1,4 @@
-<img width="882" alt="image" src="https://github.com/eunnnholee/Regional-Festival-Satisfaction-Improvement/assets/151797888/0137d55d-753e-44c5-80d5-a859569b6b00"># 지역 균형 발전을 위한 지역축제 만족도 개선 연구 : 토픽 모델링과 QFD를 중심으로
+# 지역 균형 발전을 위한 지역축제 만족도 개선 연구 : 토픽 모델링과 QFD를 중심으로
 > 토픽 모델링을 통해 도출된 키워드를 조합해 QFD의 “What List”와 “How List”를 작성한다. QFD 다이어그램을 작성함으로써 “What List”와 “How List” 가 축제에서 중요한 측면과 그것을 어떻게 달성할 지에 대한 관계를 나타낸다. QFD를 통해 산출한 중요도를 지역 축제 요구품질 중요도로 설정하여, 결과적으로 지역 축제의 만족도를 개선하고 본래의 문제점을 해결할 수 있도록 한다.
 >  - QFD(Quality Function Deployment)는 제품이나 서비스의 설계 및 개발 과정에서 고객의 요구와 기대를 반영하여 품질을 향상시키기 위한 방법론이다. QFD는 고객의 목소리(Voice of Customer, VoC)를 체계적으로 수집하고 이를 설계, 생산, 서비스 등 각 단계에서 구체적인 요구사항으로 변환하는 프로세스를 포함한다. 주요 도구로는 ’품질의 집(House of Quality)’이 사용되며, 이는 고객의 요구사항과 이를 충족시키기 위한 기술적 요구사항을 매트릭스 형태로 시각화한 것이다.
 
